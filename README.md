@@ -31,3 +31,6 @@ App runs on `http://localhost:3000`
 
 ## Related
 - [TaskFlow Backend](https://github.com/shivamnarula04/taskflow-backend)
+
+## Preview
+![TaskFlow App](screenshot.png)
